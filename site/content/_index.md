@@ -1,19 +1,27 @@
 ---
-title: "Bienvenidos"
-subtitle: Nta. Michelle Vargas
-image: /img/home-jumbotron.jpg
+title: "Nta. Michelle Vargas"
+subtitle: Especialista en enfermedad celíaca y alergias alimentarias
+image: /img/index-2.jpg
 blurb:
-    heading: Por que chelemi? porque cheloasdmi
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Un poco de mi
+    text: "Mi nombre es Michelle Vargas Torús, nutricionista egresada de Universidad Mayor en 2017.  "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Consultas"
+    text: "Realizo consultas en metro Tobalaba, consultas/talleres a domicilio y consultas online"
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "La primera consulta tiene una duración de 45 a 60 minutos, dónde realizo evaluación nutricional integral.
+      Luego vienen los controles cuya duración es de 30 minutos, la frecuencia de estos dependerá de lo que requiera cada paciente.
+      Se pueden realizar controles junto con talleres de alimentación."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "En cuanto a las consultas a domicilio, existe la modalidad de sólo consulta (siguiendo los tiempos de consulta particular) y personalmente mi favorita que es consulta junto con taller de alimentación, donde enseño como mantener un lugar en tu cocina libre de contaminación cruzada y todos los detalles a tener en cuenta para que el espacio sea inocuo, junto con la creación de tus recetas favoritas.
+      La duración de este último (consulta + taller) va a depender de lo que quieras desarrollar, pero considera que durará al menos 2 horas.  "
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Convenios
+    text: "Cuento con convenios en distintas Isapres y FONASA
+    -Banmedica
+    -Vida Tres
+    -Cruz Blanca
+    -Consalud"
+
 ---
