@@ -1,19 +1,15 @@
 ---
-title: "Contact"
+title: "Contacto"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Ubicación
+    text: "Av. Tobalaba 155, Providencia"
+  - heading: Horarios
+    text: "Lunes – Viernes 9:00AM – 19:00PM Sábados exlusivo para talleres"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Para información sobre disponibilidad de horarios, consultas a domicilio, consultas online y talleres, llena el formulario a continuación y nos contactaremos pronto.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Atención presencial</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+A continuación se encuentra la información sobre lugar y horarios de atención presencial, a pasos del metro Tobalaba. 

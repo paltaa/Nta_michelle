@@ -1,45 +1,33 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "Sobre mi"
+image: /img/sbm-4.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Consulta presencial"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Realizo consultas presenciales a pasos del metro Tobalaba. (Av. Tobalaba 155)
+      
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Consultas a domicilio"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Las consultas a domicilio se realizan en el hogar de la persona.
+      Estas pueden ser modalidad consulta simple o consulta junto con taller de alimentación.
+
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Talleres de alimentación"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+     Los talleres de alimentación pueden ser modalidad taller simple o junto con consulta, a domicilio.
+     Aquí juntas/os desarrollamos las recetas que quieras perfeccionar, junto con una asesoría
+     de inocuidad de espacios para evitar la contaminación cruzada. También se realizan talleres grupales.
+
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Consultas Online"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+     La modalidad de las consultas online tiene un valor menor a las
+      consultas presenciales, y el foco es mayoritariamente de asesoría.
+
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Valores"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Los valores varían según la modalidad de consulta a elegir.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
