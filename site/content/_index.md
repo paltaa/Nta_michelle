@@ -19,10 +19,11 @@ products:
 
 values:
     heading: Convenios
-    text: "Cuento con convenios en distintas Isapres y FONASA
-    -Banmedica
-    -Vida Tres
-    -Cruz Blanca
-    -Consalud"
+    text: 
+        Cuento con convenios en distintas Isapres y FONASA
+        Banmedica  
+        Vida Tres
+        Cruz Blanca
+        Consalud
 
 ---
